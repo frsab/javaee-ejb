@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: zheli
+Build-Jdk: 1.7.0_71
+Class-Path: openejb-client-4.0.0.jar javaee-api-6.0-3.jar cart-common-
+ 1.0-SNAPSHOT.jar
+Main-Class: javaeetutorial.cart.client.CartClient
+Created-By: Maven Integration for Eclipse
+
